@@ -1,0 +1,39 @@
+body{
+background-color: darkgray;
+}
+header{
+    border: 1px black solid;
+text-align: center;
+width: 100%;
+
+}
+.main{
+display: flex;
+justify-content: space-between;
+gap: 2em;
+padding: 10px;
+height: 80vh;
+
+
+}
+.box-1{
+    background-color: blueviolet;
+    border: 1px black solid;
+
+}
+.box-2{
+    background-color: brown;
+    border: 1px black solid;
+   
+}
+.box-3{
+    background-color: chartreuse;
+    border: 1px black solid;
+
+}
+footer{
+    border: 1px black solid;
+    text-align: center;
+    width: 100%;
+    
+}
